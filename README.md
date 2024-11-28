@@ -1,2 +1,2 @@
-# Jordybeltres-Store
+# Jordybeltre-Store
 Pagina web sobre una tienda online
