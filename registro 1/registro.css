@@ -1,0 +1,136 @@
+* {
+    Margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #282828
+}
+
+body {
+
+    background-color: #23242a;
+
+
+}
+
+header .container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background: #1cc2ce;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    
+}
+
+header .container2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+header{
+    padding: 30px 0px;
+
+    margin-top: -55px;
+
+    width: 100%;
+}
+
+header .container2{
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header .logo{
+    margin: 0;
+    padding: 25px 30px;
+    font-weight: bold;
+    color: #fff;
+    font-size: 3em;
+}
+
+header a{
+    padding: 5px 12px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-size: 22px;
+}
+
+header a:hover{
+    color: #ffffff;
+}
+
+.form-register {
+    width: 400px;
+    Background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    Color: White; 
+    box-shadow: 7px 13px 37px #000;
+
+}
+.form-register h4 {
+    font-size : 22px;
+    Margin-bottom: 20px; 
+    color: #39d6e1 !important;
+    
+
+} 
+
+.controls{
+    width: 100%;
+    background:  #24303c;
+    padding: 10px; 
+    margin-bottom: 16px;
+    border-radius: 4px;
+    border: 1px solid #45f3ff;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+}
+
+.form-register p {
+height: 40px;
+text-align  : center;
+font-size: 18px;
+line-height: 40px;
+color: white;
+}
+
+.form-register a {
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    text-decoration:none !important;
+}
+
+
+
+.form-register a:hover {
+    font-size: 19px;
+    color: rgb(255, 4, 4);
+    text-decoration:underline !important;
+
+}
+
+.form-register .botons {
+    width: 100%;
+    background: #45f3ff;
+    Border: none;
+    padding: 12px;
+    color: black !important;
+    Margin: 16px  0;
+    font-size: 16px ;
+    
+}
+
+.form-register .botons:hover {
+
+    background-color: #ff0000;
+}
+
+
